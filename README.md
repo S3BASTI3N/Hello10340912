@@ -12,4 +12,5 @@ Activities
 ==
 
 hello_activity
-![ScreenShot](doc/images/hello_activity.png)
+
+![ScreenShot](doc/images/hello_activity.png =150x)
