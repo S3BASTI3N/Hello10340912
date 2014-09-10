@@ -13,4 +13,4 @@ Activities
 
 hello_activity
 
-![](doc/images/hello_activity.png =150x)
+![](./doc/images/hello_activity.png =150x)
